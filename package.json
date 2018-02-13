@@ -1,6 +1,6 @@
 {
   "name": "react-native-signature-pad",
-  "version": "https://github.com/jayeszee/react-native-signature-pad.git",
+  "version": "0.0.8",
   "description": "React Native wrapper around szimek's Canvas based Signature Pad",
   "main": "index.js",
   "scripts": {
